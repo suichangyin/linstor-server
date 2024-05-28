@@ -7,7 +7,6 @@
 .settings/
 nbproject/
 nbproject/build-impl.xml
-bin/
 .externalToolBuilders/
 controller/.externalToolBuilders/
 server/.externalToolBuilders/
@@ -26,7 +25,6 @@ server/generated-src/com/linbit/linstor/*
 server/generated-resources/*
 build/
 out/
-/tools/
 /libs/
 .filelist
 /satellite/libs
